@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
-
-- 🔭 I’m currently working on **UNSW-NB15 dataset and network security project**
+- 🔭Latest project involves working on **UNSW-NB15 dataset and network security**
 
 - 🌱 I’m currently learning **google cloud**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Swapnil-617](https://www.quora.com/profile/Swapnil-617)
+
+- 💬 Ask me about **Flutter, Javascript, Node.js, MySQL, NLP, Neural networks**
 
 - 📫 How to reach me **swapnilsaraswat101@gmail.com**
 
